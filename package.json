@@ -21,7 +21,7 @@
     "jasmine": "^3.0.0"
   },
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "request": "^2.83.0"
   }
 }
